@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @txshah
 - 👀 I’m interested in AI technology and software algorithms
-- 🌱 I’m currently learning about Scaleable systems, LLM benchmarking and Cloud Computing 
+- 🌱 I’m currently learning about Scalable systems, LLM benchmarking and Cloud Computing 
 - 💞️ I’m looking to collaborate on cool projects and opportunities :) 
 
 <!---
